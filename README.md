@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Hi,%20I'm%20Maryam%20Hamdy%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20%26%20AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:B99CFC,100:E0C3FC&height=220&section=header&text=Hi%2C%20I%27m%20Maryam%20Hamdy%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20%26%20AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%8E%93+Senior+CS%2FAI+Engineering+Student+%40+Ain+Shams+University;%F0%9F%8C%8D+Dual-Degree+with+University+of+East+London;%F0%9F%92%BB+Full-Stack+Dev+%40+Basmah;%E2%9A%99%EF%B8%8F+Embedded+%7C+Distributed+Systems+%7C+CV+%2F+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B5FE0&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%8E%93+Senior+CS%2FAI+Engineering+Student+%40+Ain+Shams+University;%F0%9F%8C%8D+Dual-Degree+with+University+of+East+London;%F0%9F%92%BB+Full-Stack+Dev+%40+Basmah;%E2%9A%99%EF%B8%8F+Embedded+%7C+Distributed+Systems+%7C+CV+%2F+ML" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -17,13 +17,11 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3&section=header&width=100%)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,100:B99CFC&height=45&section=header&text=%F0%9F%A7%AD%20About%20Me&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-<h3 align="center">🧭 About Me</h3>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td>
+<td align="center" style="padding:20px;">
 
 🎓 &nbsp;Senior (4th year) in **Computer & Artificial Intelligence Engineering**, Ain Shams University — dual-degree with the **University of East London**  
 💼 &nbsp;Full-Stack Developer at **Basmah** (non-profit) — Laravel (PHP) backend + React frontend  
@@ -37,9 +35,7 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3&section=header&width=100%)
-
-<h3 align="center">🛠️ Tech Stack</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B99CFC,100:E0C3FC&height=45&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -75,9 +71,7 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3&section=header&width=100%)
-
-<h3 align="center">🚀 Featured Projects</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0C3FC,100:FBC2EB&height=45&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -94,25 +88,16 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6DD5FA&height=3&section=header&width=100%)
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryamhamdy06&show_icons=true&theme=tokyonight&hide_title=false&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryamhamdy06&theme=tokyonight&border_radius=10" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamhamdy06&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
-</p>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBC2EB,100:8EC5FC&height=45&section=header&text=%F0%9F%8C%B1%20Currently%20Exploring&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
-💡 *Currently exploring agentic AI security, computer vision for smart buildings, and RISC-V based tinyML acceleration*
+💡 *Agentic AI security &nbsp;•&nbsp; Computer vision for smart buildings &nbsp;•&nbsp; RISC-V based tinyML acceleration*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:B99CFC,100:E0C3FC&height=120&section=footer" width="100%"/>
+
+</div>
