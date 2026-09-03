@@ -6,17 +6,9 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/maryamhamdy">
-  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maryamhamdy0612@gmail.com">
-  <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/maryamhamdy06">
-  <img src="https://img.shields.io/badge/GitHub-6D5ACF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://linkedin.com/in/maryamhamdy"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maryamhamdy0612@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/maryamhamdy06"><img src="https://img.shields.io/badge/GitHub-6D5ACF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
