@@ -29,26 +29,26 @@
 <tr>
 <td width="55%" valign="top">
 
-🎓 **Senior Computer & Artificial Intelligence Engineering student** at Ain Shams University, pursuing a dual degree with the **University of East London**.
+-🎓 **Senior Computer & Artificial Intelligence Engineering student** at Ain Shams University, pursuing a dual degree with the **University of East London**.
 
-💼 **Full-Stack Developer at Basmah**, working across a Laravel/PHP backend and React frontend.
+-💼 **Full-Stack Developer at Basmah**, working across a Laravel/PHP backend and React frontend.
 
-🔭 I'm especially interested in **embedded systems, distributed systems, computer vision, and applied machine learning**.
+-🔭 I'm especially interested in **embedded systems, distributed systems, computer vision, and applied machine learning**.
 
-🧠 I like projects where software has to interact with the real world — whether that's through hardware, networks, or intelligent systems.
+-🧠 I like projects where software has to interact with the real world — whether that's through hardware, networks, or intelligent systems.
 
-📍 Cairo, Egypt
+-📍 Cairo, Egypt
 
 </td>
 <td width="45%" valign="top">
 
 ### Currently exploring
 
-- 🤖 Agentic AI security
-- 👁️ Computer vision for smart buildings
-- ⚡ RISC-V & tinyML acceleration
-- 🌐 Distributed systems
-- 🔌 Embedded & real-time systems
+- Agentic AI security
+- Computer vision 
+- RISC-V & tinyML acceleration
+- Distributed systems
+- Embedded & real-time systems
 
 </td>
 </tr>
@@ -154,17 +154,6 @@
 
 </table>
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maryamhamdy06&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=6B7280&bg_color=00000000" height="170" alt="Maryam's GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamhamdy06&layout=compact&hide_border=true&title_color=8B5CF6&text_color=6B7280&bg_color=00000000" height="170" alt="Top languages"/>
-
-</div>
 
 ---
 
