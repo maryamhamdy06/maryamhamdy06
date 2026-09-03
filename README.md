@@ -1,103 +1,50 @@
+<div align="center">
+  
+  <!-- Fixed Header with Gradient Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%2C%20I'm%20Maryam%20💫&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20%26%20AI%20Engineering%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=50&lines=🎓+Senior+CS%2FAI+Engineering+Student;🌍+Dual-Degree+%40+Ain+Shams+%26+UEL;💻+Full-Stack+Developer+%40+Basmah;⚡+Embedded+%7C+Distributed+%7C+CV+%2F+ML" alt="Typing SVG" />
+  
+  <br/>
+  
+  <!-- Social Badges with Hover Effects -->
+  <a href="https://linkedin.com/in/maryamhamdy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2"/>
+  </a>
+  <a href="mailto:maryamhamdy0612@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335"/>
+  </a>
+  <a href="https://github.com/maryamhamdy06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717"/>
+  </a>
+  <a href="https://maryamhamdy.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B&color=FF6B6B"/>
+  </a>
+  
+</div>
+
+---
+
+### ✨ About Me
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8EC5FC,50:B99CFC,100:E0C3FC&amp;height=220&amp;section=header&amp;text=Hi%2C%20I%27m%20Maryam%20Hamdy%20%F0%9F%91%8B&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Computer%20%26%20AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer&amp;descAlignY=55&amp;descSize=16" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=8B5FE0&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=40&amp;lines=%F0%9F%8E%93+Senior+CS%2FAI+Engineering+Student+%40+Ain+Shams+University;%F0%9F%8C%8D+Dual-Degree+with+University+of+East+London;%F0%9F%92%BB+Full-Stack+Dev+%40+Basmah;%E2%9A%99%EF%B8%8F+Embedded+%7C+Distributed+Systems+%7C+CV+%2F+ML" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/maryamhamdy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:maryamhamdy0612@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-<a href="https://github.com/maryamhamdy06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8EC5FC,100:B99CFC&amp;height=45&amp;section=header&amp;text=%F0%9F%A7%AD%20About%20Me&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65" width="100%"/>
-
-<table width="100%">
-<tr>
-<td align="center" style="padding:20px;">
-
-🎓 &nbsp;Senior (4th year) in **Computer & Artificial Intelligence Engineering**, Ain Shams University — dual-degree with the **University of East London**  
-💼 &nbsp;Full-Stack Developer at **Basmah** (non-profit) — Laravel (PHP) backend + React frontend  
-🌍 &nbsp;Based in Cairo, Egypt  
-🔭 &nbsp;Interests span **embedded systems, distributed systems, computer vision, and applied ML**  
-📫 &nbsp;Reach me at **maryamhamdy0612@gmail.com**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B99CFC,100:E0C3FC&amp;height=45&amp;section=header&amp;text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65" width="100%"/>
-
-<div align="center">
-
-**Languages**  
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&amp;logo=c-sharp&amp;logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&amp;logo=java&amp;logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB"/>
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R"/>
-
-**Frameworks & Libraries**  
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/-FreeRTOS-2C4165?style=flat-square" alt="FreeRTOS"/>
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
-
-**Tools & Platforms**  
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="Cisco"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:E0C3FC,100:FBC2EB&amp;height=45&amp;section=header&amp;text=%F0%9F%9A%80%20Featured%20Projects&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65" width="100%"/>
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧠 [**Distributed LLM Inference System**](https://github.com/Naira05/distributed-llm-load-balancer) | Load-balanced serving system for LLM inference | Python, Flask, Ollama, ngrok |
-| 🕹️ [**Grid Clash**](https://github.com/MaiHamed/grid-clash-sync-protocol) | Custom game protocol & server built from scratch | C, Linux, UDP |
-| 🧩 [**Jigsaw Puzzle Image Processing Pipeline**](https://github.com/MaiHamed/Image_Puzzle_Solver) | Automated puzzle-solving pipeline using classical CV | Python, OpenCV, NumPy, SciPy |
-| 💬 [**Reddit Clone**](https://github.com/mmorsi4/reddit-clone) | Full-stack social platform built with a 6-person team | Node.js, React, MongoDB |
-| 🍄 [**Mushroom Classification & Data Mining**](https://github.com/MaiHamed/mushroom-classification) | Comparative ML classification & data mining study | Python, R, Random Forest, CatBoost |
-| 🅿️ **Smart Parking Garage Gate System** | Real-time embedded gate control system | FreeRTOS, Tiva-C, ARM Cortex-M |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FBC2EB,100:8EC5FC&amp;height=45&amp;section=header&amp;text=%F0%9F%8C%B1%20Currently%20Exploring&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65" width="100%"/>
-
-<div align="center">
-
-💡 *Agentic AI security &nbsp;•&nbsp; Computer vision for smart buildings &nbsp;•&nbsp; RISC-V based tinyML acceleration*
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8EC5FC,50:B99CFC,100:E0C3FC&amp;height=120&amp;section=footer" width="100%"/>
-
-</div>
+  
+```python
+class MaryamHamdy:
+    def __init__(self):
+        self.role = "Senior CS & AI Engineering Student"
+        self.university = "Ain Shams University (Dual-Degree with UEL)"
+        self.location = "🌍 Cairo, Egypt"
+        self.current_work = "💼 Full-Stack Developer @ Basmah"
+        self.interests = [
+            "Embedded Systems",
+            "Distributed Systems", 
+            "Computer Vision",
+            "Applied ML",
+            "Agentic AI Security"
+        ]
+        self.email = "maryamhamdy0612@gmail.com"
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! 🚀")
