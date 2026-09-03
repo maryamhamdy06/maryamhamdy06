@@ -1,23 +1,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:B99CFC,100:E0C3FC&height=220&section=header&text=Hi%2C%20I%27m%20Maryam%20Hamdy%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20%26%20AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8EC5FC,50:B99CFC,100:E0C3FC&amp;height=220&amp;section=header&amp;text=Hi%2C%20I%27m%20Maryam%20Hamdy%20%F0%9F%91%8B&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Computer%20%26%20AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer&amp;descAlignY=55&amp;descSize=16" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B5FE0&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%8E%93+Senior+CS%2FAI+Engineering+Student+%40+Ain+Shams+University;%F0%9F%8C%8D+Dual-Degree+with+University+of+East+London;%F0%9F%92%BB+Full-Stack+Dev+%40+Basmah;%E2%9A%99%EF%B8%8F+Embedded+%7C+Distributed+Systems+%7C+CV+%2F+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=8B5FE0&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=40&amp;lines=%F0%9F%8E%93+Senior+CS%2FAI+Engineering+Student+%40+Ain+Shams+University;%F0%9F%8C%8D+Dual-Degree+with+University+of+East+London;%F0%9F%92%BB+Full-Stack+Dev+%40+Basmah;%E2%9A%99%EF%B8%8F+Embedded+%7C+Distributed+Systems+%7C+CV+%2F+ML" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/maryamhamdy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:maryamhamdy0612@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/maryamhamdy06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/maryamhamdy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:maryamhamdy0612@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://github.com/maryamhamdy06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,100:B99CFC&height=45&section=header&text=%F0%9F%A7%AD%20About%20Me&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8EC5FC,100:B99CFC&amp;height=45&amp;section=header&amp;text=%F0%9F%A7%AD%20About%20Me&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -35,7 +35,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B99CFC,100:E0C3FC&height=45&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:B99CFC,100:E0C3FC&amp;height=45&amp;section=header&amp;text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0C3FC,100:FBC2EB&height=45&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:E0C3FC,100:FBC2EB&amp;height=45&amp;section=header&amp;text=%F0%9F%9A%80%20Featured%20Projects&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -88,7 +88,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBC2EB,100:8EC5FC&height=45&section=header&text=%F0%9F%8C%B1%20Currently%20Exploring&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FBC2EB,100:8EC5FC&amp;height=45&amp;section=header&amp;text=%F0%9F%8C%B1%20Currently%20Exploring&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -98,6 +98,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:B99CFC,100:E0C3FC&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8EC5FC,50:B99CFC,100:E0C3FC&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
