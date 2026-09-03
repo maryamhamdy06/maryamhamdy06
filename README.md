@@ -5,17 +5,19 @@
 
 ### Computer & AI Engineering Student · Full-Stack Developer
 
-<p>
-  <a href="https://linkedin.com/in/maryamhamdy">
-    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maryamhamdy0612@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/maryamhamdy06">
-    <img src="https://img.shields.io/badge/GitHub-6D5ACF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/maryamhamdy">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maryamhamdy0612@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/maryamhamdy06">
+  <img src="https://img.shields.io/badge/GitHub-6D5ACF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&height=50&lines=Senior+Computer+%26+AI+Engineering+Student;Full-Stack+Developer+%40+Basmah;Interested+in+Web+Development+%7C+Networking+and+Security+%7C+ML+%7C+Embedded;Building+things+that+make+me+go+%22wait...+that+actually+works%22" alt="Typing SVG"/>
 
