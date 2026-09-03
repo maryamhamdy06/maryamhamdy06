@@ -65,21 +65,9 @@
 | 🍄 [**Mushroom Classification & Data Mining**](https://github.com/MaiHamed/mushroom-classification) | Comparative ML classification & data mining study | Python, R, Random Forest, CatBoost |
 | 🅿️ **Smart Parking Garage Gate System** | Real-time embedded gate control system | FreeRTOS, Tiva-C, ARM Cortex-M |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryamhamdy06&show_icons=true&theme=default&hide_title=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryamhamdy06" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamhamdy06&layout=compact" height="165"/>
-</p>
 
 ---
 
 <p align="center">
-  🌱 Currently exploring agentic AI security, computer vision for smart buildings, and RISC-V based tinyML acceleration
+  🌱 Currently exploring agentic AI, software development and network security
 </p>
