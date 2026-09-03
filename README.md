@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/maryamhamdy">
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:maryamhamdy0612@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maryamhamdy0612@gmail.com">
     <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/maryamhamdy06">
