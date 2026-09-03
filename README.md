@@ -40,32 +40,32 @@
 <div align="center">
 
 **Languages**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&amp;logo=c-sharp&amp;logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&amp;logo=java&amp;logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R"/>
 
 **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-2C4165?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/-FreeRTOS-2C4165?style=flat-square" alt="FreeRTOS"/>
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="Cisco"/>
 
 </div>
 
